@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PM2ExamenCuentas</string>
+    
+    <string name="btn_salvar_contacto">Salvar Contacto</string>
+    <string name="btn_contactos_salvados">Contactos Salvados</string>
+</resources>
